@@ -14,7 +14,7 @@ The addcost.js file defines an Express router that implements a POST endpoint fo
 It uses the Cost model to perform CRUD operations on the cost collection. It also imports the User and Report models to perform validation 
 and update the report collection, respectively.
 
-##Usage
+## Usage
 The app has four main features:
 
 1. Add a new cost
@@ -22,11 +22,11 @@ The app has four main features:
 3. View your expenses history
 4. Generate reports
 
-##Dependencies
+## Dependencies
 The following dependencies are used in this project:
 
-*express: for building the server-side of the app
-*mongoose: for connecting to and interacting with the MongoDB database
+- express: for building the server-side of the app.
+- mongoose: for connecting to and interacting with the MongoDB database
 
 
 
